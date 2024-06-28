@@ -28,5 +28,5 @@ body {
 /* Estilo de fuente similar a Minecraft */
 @font-face {
     font-family: 'Minecraft';
-    src: url('https://fonts.cdnfonts.com/s/15520/Minecraft-Regular.woff') format('woff');
+    src:url(/fuente/minecraft_font.ttf);
 }
